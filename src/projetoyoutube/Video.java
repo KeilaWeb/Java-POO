@@ -1,3 +1,7 @@
+package projetoyoutube;
+
+import projetoyoutube.AcoesVideo;
+
 public class Video implements AcoesVideo {
     private String titulo;
     private int avaliacao;
